@@ -1,6 +1,6 @@
 ## Olá pessoal! 👋
 
-<br clear="both">
+
 
 <p align="left">Me chamo Jonatan, tenho 41 anos e sou do Rio Grande do Sul. Começando a pouco tempo na área da técnologia e querendo muito me aperfeiçoar. Atualmente estudando muito, lógica de programação, git e github, css3 , html5 e um  pouco de javascript. Mas sempre em busca de mais.</p>
 
