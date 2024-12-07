@@ -13,7 +13,6 @@
 
 ###
 
-<br clear="both">
 
 <h2 align="left">Tecnologias</h2>
 
@@ -33,9 +32,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/JonatanBertella/JonatanBertella/output/snake.svg" alt="Snake animation" />
 
 ###
 <picture align="center">
